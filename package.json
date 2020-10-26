@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "graphql-config-yaml",
+  "scripts": {
+    "test": "node index"
+  },
+  "dependencies": {
+    "graphql": "15.3.0",
+    "graphql-config": "3.0.3"
+  }
+}
